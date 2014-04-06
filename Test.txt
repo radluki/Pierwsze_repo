@@ -1,2 +1,2 @@
 Czy plik zostanie skomitowany?
-Czy nie?
+Czy nie? tak
